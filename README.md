@@ -24,3 +24,8 @@ The app demonstrates the use of Intents in two ways:
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+# Output Screenshots
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/WordsApp/kt/output/LinearMain.png" alt="Linear Main Landing View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/WordsApp/kt/output/GridMain.png" alt="Words Grid View">
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/WordsApp/kt/output/Words.png" alt="Words View">
+
